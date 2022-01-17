@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Phone {
+  background-color: blue;
+  border-radius: 15px;
+  padding:5px;
+  margin:10px;
+}
+.Container{
+  border:1px solid white;
+  padding: 5px;
+  background-image:url(../public/images\ \(1\).jpg);
+  border-radius: 20px;
+  padding:5px;
+  margin:10px;
+  color: green;
+  text-align: center;
+  width: 200px;
+  height: 250px;
+  align-items: center;
+
+}
+.Container-2{
+  border:1px solid blue;
+  background-image: url(../public/images.jpg);
+  border-radius: 15px;
+  padding:5px;
+  margin:10px;
+  color: red;
+  width: 200px;
+  height: 250px;
+  text-align: center;
+}
